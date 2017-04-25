@@ -1,6 +1,6 @@
 # npmdoc-inbox
 
-#### api documentation for  [inbox (v1.1.59)](https://github.com/andris9/inbox)  [![npm package](https://img.shields.io/npm/v/npmdoc-inbox.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-inbox) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-inbox.svg)](https://travis-ci.org/npmdoc/node-npmdoc-inbox)
+#### basic api documentation for  [inbox (v1.1.59)](https://github.com/andris9/inbox)  [![npm package](https://img.shields.io/npm/v/npmdoc-inbox.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-inbox) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-inbox.svg)](https://travis-ci.org/npmdoc/node-npmdoc-inbox)
 
 #### This is a work in progress IMAP client for node.js.
 
